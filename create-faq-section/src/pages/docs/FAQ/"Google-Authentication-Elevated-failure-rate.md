@@ -1,3 +1,9 @@
+---
+title: "Google-Authentication-Elevated-failure-rate?"
+order: 3
+page_id: "Google-Authentication-Elevated-failure-rate"
+warning: false
+---
 ### Google Authentication – Elevated failure rate
 
 Signing in to the Postman app using your Google credentials is seeing elevated failure rates – a screenshot of the behavior can be found below.
