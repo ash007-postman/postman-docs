@@ -1,3 +1,10 @@
+---
+title: "Why-my-published-collection-returns-an-error-403"
+order: 3
+page_id: "Why-my-published-collection-returns-an-error-403"
+warning: false
+---
+
 ### Why my published collection returns an error 403?
 
 Your documentation may result in the below error 403 if the environment associated with the collection was created by a user who left the team.
