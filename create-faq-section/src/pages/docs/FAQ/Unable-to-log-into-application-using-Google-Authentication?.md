@@ -1,12 +1,9 @@
 ---
-title: "Unable-to-log-into-application-using-Google-Authentication?"
+title: "Unable to log into application using Google Authentication?"
 order: 3
 page_id: "Unable-to-log-into-application-using-Google-Authentication?"
 warning: false
 ---
-
-### Unable to log into application using Google Authentication
-
 If you are unable to login to the Postman application using Google authentication and if you are receiving the message - "The browser you are trying to login doesn't secure your account" as per the screenshot below:  
   
 ![Screenshot_2019-12-17_at_11.33.21_AM.png](https://support.getpostman.com/hc/article_attachments/360053282174/Screenshot_2019-12-17_at_11.33.21_AM.png)  
