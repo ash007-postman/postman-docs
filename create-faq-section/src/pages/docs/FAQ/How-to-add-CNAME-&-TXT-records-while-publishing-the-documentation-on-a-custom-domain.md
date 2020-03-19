@@ -1,5 +1,5 @@
 ---
-title: "How-to-add-CNAME-&-TXT-records-while-publishing-the-documentation-on-a-custom-domain?"
+title: "How to add CNAME & TXT records while publishing the documentation on a custom domain?"
 order: 3
 page_id: "How-to-add-CNAME-&-TXT-records-while-publishing-the-documentation-on-a-custom-domain"
 warning: false
