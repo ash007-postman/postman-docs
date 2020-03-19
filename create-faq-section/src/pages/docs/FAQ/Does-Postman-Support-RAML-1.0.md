@@ -4,7 +4,6 @@ order: 3
 page_id: "Does-Postman-Support-RAML-1.0"
 warning: false
 ---
-### Does Postman Support RAML 1.0?
 
 1) Importing RAML 1.0 spec to a collection - currently not supported   
 2) Defining APIs importing schema format RAML 0.8 - supported  
