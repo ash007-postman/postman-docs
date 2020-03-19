@@ -4,10 +4,7 @@ order: 3
 page_id: "How-to-add-CNAME-&-TXT-records-while-publishing-the-documentation-on-a-custom-domain"
 warning: false
 ---
-### How to add CNAME & TXT records while publishing the documentation on a custom domain?
-
 Below steps are used to add CNAME for your subdomain and TXT records for your domain to verify your domain for custom documentation.
-
   
 **If your domain is managed in GoDaddy or Enom:**  
   
