@@ -1,5 +1,5 @@
 ---
-title: "Google-Authentication-Elevated-failure-rate?"
+title: "Google Authentication Elevated failure rate?"
 order: 3
 page_id: "Google-Authentication-Elevated-failure-rate"
 warning: false
