@@ -1,5 +1,5 @@
 ---
-title: "Why my published collection returns an error403"?
+title: "Why my published collection returns an error 403"?
 order: 3
 page_id: "Why-my-published-collection-returns-an-error-403"?
 warning: false
