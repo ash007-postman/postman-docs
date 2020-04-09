@@ -1,3 +1,9 @@
+---
+title: "What is the Usability of SSL Certificates with your requests"?
+order: 3
+page_id: "What-is-the-Usability-of-SSL-Certificates-with-your-requests"?
+warning: false
+---
 ### Usability of SSL Certificates with your requests 
 
 An organization needs to install the SSL Certificate onto its web server to initiate a secure session with browsers. Once a secure connection is established, all web traffic between the web server and the web browser will be secure. When a certificate is successfully installed on your server, the application protocol (also known as HTTP) will change to HTTPs, where the ‘S’ stands for ‘secure’. Depending on the type of certificate you purchase and what browser you are surfing the internet on, a browser will show a padlock or green bar in the browser when you visit a website that has an SSL Certificate installed.
