@@ -14,22 +14,20 @@ When you add a client certificate to the Postman app, you associate a domain wit
 
 **Frequently asked questions:**
 
-**Wanted to sign and encrypt the payload before sending the request to the back system, and once the response received from the host needs to decrypt and verify the response payload using the JOSE package?**
+- **Wanted to sign and encrypt the payload before sending the request to the back system, and once the response received from the host needs to decrypt and verify the response payload using the JOSE package?**
 
-The [Postman sandbox](https://www.getpostman.com/docs/postman/scripts/postman_sandbox "https://www.getpostman.com/docs/postman/scripts/postman_sandbox"), our Javascript execution environment for pre-request and test scripts, comes with support for [CryptoJS](https://code.google.com/p/crypto-js/ "https://code.google.com/p/crypto-js/"). If you need to use JOSE, you'll need to add get creative about importing the JOSE library/package into Postman, and evaluating (eval()) the function(s) needed within the pre-requests/test scripts. Here's an example of how the workaround can be done – [Postman BDD](https://github.com/BigstickCarpet/postman-bdd "https://github.com/BigstickCarpet/postman-bdd").
+The [Postman sandbox](https://www.getpostman.com/docs/postman/scripts/postman_sandbox "https://www.getpostman.com/docs/postman/scripts/postman_sandbox"), our Javascript execution environment for pre-request and test scripts, comes with support for [CryptoJS](https://code.google.com/p/crypto-js/ "https://code.google.com/p/crypto-js/"). If you need to use JOSE, you'll need to add get creative about importing the JOSE library/package into Postman, and evaluating (eval()) the function(s) needed within the pre-requests/test scripts. Here's an example of how the workaround can be done – [Postman BDD](https://github.com/BigstickCarpet/postman-bdd "https://github.com/BigstickCarpet/postman-bdd").Using a library that isn't already implemented in our sandbox would require overhead on your end, and we wouldn't be able to provide much support for project-specific questions**
 
-Using a library that isn't already implemented in our sandbox would require overhead on your end, and we wouldn't be able to provide much support for project-specific questions.
-
-**How-to turn off all SSL checks for the postman for a specific site?**
+- **How-to turn off all SSL checks for the postman for a specific site?**
 
 In the settings, turn off the SSL certificate verification option is present but be sure to remember to reactivate it afterward as this is a security feature.
 
-**Why am I getting SSL Handshake error?** 
+- **Why am I getting SSL Handshake error?** 
 
 This is probably because of the proxy setup. Turning off the global and system proxy from settings needs to be checked.
 
   
-**How can I ignore SSL certificate error ‘u_nable to verify the first certificate error_’ in Newman?**
+- **How can I ignore SSL certificate error ‘u_nable to verify the first certificate error_’ in Newman?**
 
 There is an option \--insecure to disable strict SSL.
 
