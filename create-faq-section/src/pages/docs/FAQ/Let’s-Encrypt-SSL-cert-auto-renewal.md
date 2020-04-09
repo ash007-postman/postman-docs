@@ -13,9 +13,9 @@ Postman automatically generates an SSL certificate using LetsEncrypt for your do
 
 **Frequently asked questions:**
 
--** How long are these SSL Certificates valid for?**
+- ** How long are these SSL Certificates valid for?**
 
-Certificates are generated with a 90-day expiry date.
+    Certificates are generated with a 90-day expiry date.
 
 -** How & when does 'Let’s Encrypt' renew SSL certificates for published documentation?**
 
