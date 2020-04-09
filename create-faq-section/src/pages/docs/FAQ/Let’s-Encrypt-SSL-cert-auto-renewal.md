@@ -13,24 +13,24 @@ Postman automatically generates an SSL certificate using LetsEncrypt for your do
 
 **Frequently asked questions:**
 
-- ** How long are these SSL Certificates valid for?**
+- **How long are these SSL Certificates valid for?**
 
     Certificates are generated with a 90-day expiry date.
 
--** How & when does 'Let’s Encrypt' renew SSL certificates for published documentation?**
+- **How & when does 'Let’s Encrypt' renew SSL certificates for published documentation?**
 
-The certificate gets renewed at 7 days from the expiry.
+    The certificate gets renewed at 7 days from the expiry.
 
--** Do I need to perform any steps to renew the certificate?** 
+- **Do I need to perform any steps to renew the certificate?** 
 
-Certificates are renewed automatically, no manual steps are required.
+    Certificates are renewed automatically, no manual steps are required.
 
--** Who issues Certificate on the published documentation?**
+- **Who issues Certificate on the published documentation?**
 
-Certificates for documentation hosted one custom domain are issued via **Let’s Encrypt**.
+    Certificates for documentation hosted one custom domain are issued via **Let’s Encrypt**.
 
-For the ones on documenter(default), uses the Amazon issued certificate for the \*.getpostman.com domain.
+    For the ones on documenter(default), uses the Amazon issued certificate for the \*.getpostman.com domain.
 
--** How do we enable SSL for documentation on a custom domain?**
+- **How do we enable SSL for documentation on a custom domain?**
 
-Once the documentation is published on a custom domain, SSL is automatically set up and wouldn't require any additional steps further.
+    Once the documentation is published on a custom domain, SSL is automatically set up and wouldn't require any additional  steps further.
